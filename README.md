@@ -2,7 +2,7 @@
 Who am i?
 </h1>
 <h3>
-See all the information on my <a target="_blank" href="https://ervinghoreishi.ir/">personal website</a>.
+See all the information on my <a target="_blank" href="https://ervinghoreishi.xyz/">personal website</a>.
 </h3>
 
 <h1 align="center">
